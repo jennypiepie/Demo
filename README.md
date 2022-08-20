@@ -1,2 +1,0 @@
-# threejs demo
-Haunted House
