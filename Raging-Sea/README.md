@@ -1,2 +1,2 @@
 # threejs demo
-Haunted House
+Some demos about threejs
