@@ -6,7 +6,7 @@ import waterFragmentShader from './shaders/water/fragment.glsl'
 
 
 //GUI
-const gui = new dat.GUI()
+const gui = new dat.GUI({closed:true})
 const debugObject = {}
 
 const canvas = document.querySelector('.webgl')

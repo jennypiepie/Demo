@@ -4,7 +4,7 @@ import * as dat from 'dat.gui'
 
 
 //GUI
-const gui = new dat.GUI()
+const gui = new dat.GUI({closed:true})
 //canvas
 const canvas = document.querySelector('.webgl')
 //scene
